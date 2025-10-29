@@ -80,10 +80,12 @@ p {
     text-align: center;
 
 }
-footer {
-    background-color: #4c4342;
-    text-align: center;
+img {
+ text-align: center;
+
+
 }
+
 
 
 
@@ -98,6 +100,11 @@ footer {
 
 
 /* footer styling */
+footer {
+    background-color: #4c4342;
+    text-align: center;
+}
+
 a {
 color: #fbf3f3
 }
