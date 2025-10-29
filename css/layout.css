@@ -1,0 +1,103 @@
+/* These are some suggested groupings for your stylesheet... */
+
+
+/* box sizing */
+
+
+/* element styling (e.g. standard p, h1, h2, a, etc) */
+
+
+/* flexible content images code */
+
+
+/* navigation styles */
+ul {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 100%;
+    list-style-type: none;
+    display: flex;
+    justify-content: center; 
+}
+ul li {
+    float: left;
+    justify-content: center; 
+    width: 23.33%;
+    flex: 1;
+    text-align: center;
+}
+ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    justify-content: center; 
+}
+ul li a:hover {
+background-color: #111111
+}
+/* page header styles*/
+
+
+/* main layout */
+h1 {
+    text-align: center;
+    font-family: cursive;
+    color: aliceblue;
+    background-color: #210202;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #6a5e5b;
+    margin: 0;
+    padding: 0;
+}
+.container-content {
+padding: 0.15em;
+margin: 0 auto;
+box-sizing: border-box;
+background-color: rgb(125, 118, 116);
+border-radius: 25px;
+border: 5px solid;
+border-color: #9f9d9d;
+
+}
+
+h2 {
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin: 0;
+
+}
+p {
+    color: white;
+    font-size: 100%;
+    text-align: center;
+
+}
+footer {
+    background-color: #4c4342;
+    text-align: center;
+}
+
+
+
+
+/* styling for the section content */
+
+
+/* background colours for sections */
+
+
+/* form styling */
+
+
+/* footer styling */
+a {
+color: #fbf3f3
+}
